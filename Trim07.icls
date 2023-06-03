@@ -1,10 +1,10 @@
 <scheme name="Trim07 copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-03T09:09:09</property>
+    <property name="created">2023-06-03T09:19:44</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-06-03T09:09:16</property>
+    <property name="ideVersion">2023.1.2.0.0</property>
+    <property name="modified">2023-06-03T09:19:50</property>
     <property name="originalScheme">Trim07 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -367,9 +367,7 @@
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="BACKGROUND" value="2b2d30" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
